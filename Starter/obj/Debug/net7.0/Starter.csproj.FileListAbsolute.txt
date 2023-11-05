@@ -1,0 +1,14 @@
+/Users/daniele/Downloads/Guided-project-branching-looping-CSharp-main/Contoso Pets/Starter/bin/Debug/net7.0/Starter
+/Users/daniele/Downloads/Guided-project-branching-looping-CSharp-main/Contoso Pets/Starter/bin/Debug/net7.0/Starter.deps.json
+/Users/daniele/Downloads/Guided-project-branching-looping-CSharp-main/Contoso Pets/Starter/bin/Debug/net7.0/Starter.runtimeconfig.json
+/Users/daniele/Downloads/Guided-project-branching-looping-CSharp-main/Contoso Pets/Starter/bin/Debug/net7.0/Starter.dll
+/Users/daniele/Downloads/Guided-project-branching-looping-CSharp-main/Contoso Pets/Starter/bin/Debug/net7.0/Starter.pdb
+/Users/daniele/Downloads/Guided-project-branching-looping-CSharp-main/Contoso Pets/Starter/obj/Debug/net7.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniele/Downloads/Guided-project-branching-looping-CSharp-main/Contoso Pets/Starter/obj/Debug/net7.0/Starter.AssemblyInfoInputs.cache
+/Users/daniele/Downloads/Guided-project-branching-looping-CSharp-main/Contoso Pets/Starter/obj/Debug/net7.0/Starter.AssemblyInfo.cs
+/Users/daniele/Downloads/Guided-project-branching-looping-CSharp-main/Contoso Pets/Starter/obj/Debug/net7.0/Starter.csproj.CoreCompileInputs.cache
+/Users/daniele/Downloads/Guided-project-branching-looping-CSharp-main/Contoso Pets/Starter/obj/Debug/net7.0/Starter.dll
+/Users/daniele/Downloads/Guided-project-branching-looping-CSharp-main/Contoso Pets/Starter/obj/Debug/net7.0/refint/Starter.dll
+/Users/daniele/Downloads/Guided-project-branching-looping-CSharp-main/Contoso Pets/Starter/obj/Debug/net7.0/Starter.pdb
+/Users/daniele/Downloads/Guided-project-branching-looping-CSharp-main/Contoso Pets/Starter/obj/Debug/net7.0/Starter.genruntimeconfig.cache
+/Users/daniele/Downloads/Guided-project-branching-looping-CSharp-main/Contoso Pets/Starter/obj/Debug/net7.0/ref/Starter.dll
